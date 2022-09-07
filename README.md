@@ -10,4 +10,4 @@ Using bacterial data collected from volunteers, the goal is to complete a dashbo
 * Plotly
 * HTML/CSS
 ## Result
-The link to the dashboard: 
+The link to the dashboard: [website](https://loukya-shivapooja.github.io/Plotly-BellyButtonBiodiversity/)
